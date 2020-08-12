@@ -1,0 +1,11 @@
+#EXTM3U
+
+
+#EXTINF:-1,Canal tc
+http://gangafree.com:25461/live/51194/16890/38032.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador|| Canela TV" tvg-logo="http://fl5.tvxweb.net:88/stalker_portal/misc/logos/320/4292.jpg" group-title="Tv Internacional",Ecuador|| Canela TV
+http://gangafree.com:25461/live/51194/16890/38029.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▁ ▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂ ▁" tvg-logo="" group-title="Tv Internacional",▁ ▂ ▄ ▅ ▆☆ ECUADOR ☆▆ ▅ ▄ ▂ ▁
+http://gangafree.com:25461/live/51194/16890/38030.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ecuador|| Ecuador TV SD" tvg-logo="http://gangafree.com:25461/images/9cfd9f63e0a109177a3599599b73f6f1.jpg" group-title="Tv Internacional",Ecuador|| Ecuador TV SD
+http://gangafree.com:25461/live/51194/16890/38031.m3u8# lista
